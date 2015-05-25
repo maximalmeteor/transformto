@@ -1,7 +1,7 @@
 Package.describe({
   name: 'maximal:transformto',
-  version: '0.1.0',
-  summary: 'Provides the `transformTo` function on collections, to transform items to a class',
+  version: '1.0.0',
+  summary: 'Provides a `transformTo` function on collections, to transform items to a class',
   git: 'https://github.com/maximalmeteor/transformto/',
   documentation: 'README.md'
 });
